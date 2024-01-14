@@ -1,0 +1,32 @@
+.li-country-listed-item {
+    border-bottom: 1px solid #334155;
+    padding: 3px 20px;
+    font-size: 13px;
+}
+
+.country-listed-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.country-listed-name {
+    color: #f8fafc;
+}
+
+.visit-btn {
+    color: #ffffff;
+    font-weight: 500;
+    background-color: #3b82f6;
+    border: none;
+    width: 55px;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 2px;
+}
+
+.visited-text {
+    color: #94a3b8;
+    width: 55px;
+    text-align: center;
+}
